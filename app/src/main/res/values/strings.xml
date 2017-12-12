@@ -105,4 +105,10 @@
         "when a user tries to pick up one of cards.\n\n"
     </string>
     <string name="action_settings">Settings</string>
+    <string name="title_activity_InitialQuestions">Calculate</string>
+    <string name="income">Income Amount $ </string>
+    <string name="age">Your Age </string>
+    <string name="family">Family Size</string>
+    <string name="risk">Risk Rate %</string>
+    <string name="title_activity_maps">Map</string>
 </resources>
